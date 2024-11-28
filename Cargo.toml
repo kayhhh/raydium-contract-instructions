@@ -1,10 +1,10 @@
 [workspace]
+resolver = "2"
 members = [
-    "client",
-    "lib",
-    "amm-anchor",
-    "stable-amm-anchor",
-    "farm-anchor",
-    "staking-anchor",
+  "client",
+  "lib",
+  "amm-anchor",
+  "stable-amm-anchor",
+  "farm-anchor",
+  "staking-anchor",
 ]
-
